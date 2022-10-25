@@ -1,0 +1,128 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Montserrat";
+}
+body {
+	background-color: #2b2921;
+}
+.nav-div-1 {
+	/* border: 1px solid red; */
+	float: left;
+	margin-top: 30px;
+	margin-left: 70px;
+}
+.nav-div-2 {
+	/* border: 1px solid blue; */
+	float: left;
+	margin-top: 40px;
+	margin-left: 250px;
+}
+.nav-div-3 {
+	/* border: 1px solid green; */
+	float: left;
+	margin-top: 28px;
+	margin-left: 45px;
+}
+.navbar {
+	/* display: block; */
+	height: 90px;
+	margin-bottom: 60px;
+}
+.list-item {
+	color: rgb(124, 124, 124);
+	display: inline-block;
+	margin-left: 25px;
+	cursor: pointer;
+	font-weight: 500;
+}
+.list-item-1 {
+	color: #fff;
+	display: inline-block;
+	margin-left: 25px;
+	cursor: pointer;
+	font-weight: 500;
+}
+.logo {
+	width: 70%;
+	height: 70%;
+}
+.button-small {
+	background-color: #2b2922;
+	cursor: pointer;
+	color: #9f8e36;
+	width: 140px;
+	height: 45px;
+	border: 1.5px solid #9f8e36;
+	border-radius: 9px;
+	font-size: 16px;
+}
+.hero-heading {
+	color: #fff;
+	font-size: 65px;
+	width: 540px;
+	float: left;
+	margin-left: 70px;
+}
+.hero-body {
+	color: #fff;
+	font-size: 20px;
+	float: left;
+	width: 470px;
+	margin-top: 35px;
+	margin-left: 100px;
+}
+
+.justice {
+	margin-top: 80px;
+	/* width: 1212px;
+	height: 600px; */
+	width: 1212px;
+	height: 580px;
+	object-fit: cover;
+}
+.bottom {
+	height: 100px;
+}
+.bottom {
+	margin-left: 1007px;
+}
+.bottom-outer-div-prev {
+	background-color: #39372d;
+	height: 100px;
+	width: 105px;
+	float: left;
+}
+.button-large-prev {
+	float: left;
+	height: 65px;
+	width: 65px;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-color: #39372d;
+	padding-left: 15px;
+	font-size: 50px;
+	color: #7d7233;
+	border: 3px solid #7d7233;
+	border-radius: 50%;
+}
+.bottom-outer-div-next {
+	background-color: #a08f36;
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+.button-large-next {
+	float: left;
+	height: 65px;
+	width: 65px;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-color: #a08f36;
+	padding-left: 18px;
+	font-size: 50px;
+	color: #fff;
+	border: 3px solid #fff;
+	border-radius: 50%;
+}
