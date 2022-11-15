@@ -8,25 +8,21 @@ body {
 	background-color: #2b2921;
 }
 .nav-div-1 {
-	/* border: 1px solid red; */
 	float: left;
 	margin-top: 30px;
 	margin-left: 70px;
 }
 .nav-div-2 {
-	/* border: 1px solid blue; */
 	float: left;
 	margin-top: 40px;
 	margin-left: 250px;
 }
 .nav-div-3 {
-	/* border: 1px solid green; */
 	float: left;
 	margin-top: 28px;
 	margin-left: 45px;
 }
 .navbar {
-	/* display: block; */
 	height: 90px;
 	margin-bottom: 60px;
 }
@@ -47,6 +43,7 @@ body {
 .logo {
 	width: 70%;
 	height: 70%;
+	cursor: pointer;
 }
 .button-small {
 	background-color: #2b2922;
@@ -76,8 +73,6 @@ body {
 
 .justice {
 	margin-top: 80px;
-	/* width: 1212px;
-	height: 600px; */
 	width: 1212px;
 	height: 580px;
 	object-fit: cover;
@@ -106,6 +101,7 @@ body {
 	color: #7d7233;
 	border: 3px solid #7d7233;
 	border-radius: 50%;
+	cursor: pointer;
 }
 .bottom-outer-div-next {
 	background-color: #a08f36;
@@ -125,4 +121,5 @@ body {
 	color: #fff;
 	border: 3px solid #fff;
 	border-radius: 50%;
+	cursor: pointer;
 }
